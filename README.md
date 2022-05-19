@@ -19,6 +19,8 @@ ________________________________________________________________________
 - 👯 I’m Community member at Microsoft Learn Student Ambassador
 - 🌱 I’m Currently working as a remote intern at DEVDICE
 - ⚡ I m tech enthusiast.
+- ✍️ Programming Fundamentals Teaching Assistant
+
 ### :hammer_and_wrench: Languages and Tools :
 ________________________________________________________________________
 <div>
