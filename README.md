@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Ayesha Rashid, Student at 👨‍💻 PUCIT Pursuing BS Software Engineering. I am tech enthusiast.
 
-<p><img src="https://github.com/AyeshaRashid208/AyeshaRashid208/blob/main/gif_image.gif" alt="Gif" ></p>
+<p><img src="https://github.com/AyeshaRashid208/AyeshaRashid208/blob/main/gif_image.gif" alt="Gif" width="500" height="320"></p>
 <div id="badges">
   <a href="https://www.sitepoint.com/github-profile-readme/https://www.linkedin.com/in/ayesha-rashid-56647b1a6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
