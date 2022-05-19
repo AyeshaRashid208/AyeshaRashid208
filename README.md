@@ -2,7 +2,7 @@
 I'm Ayesha Rashid, Student at 👨‍💻 PUCIT Pursuing BS Software Engineering. I am tech enthusiast.
 
 **🧐ABOUT ME**🚀
-**_________________________________________________________________________**
+________________________________________________________________________
 - 🔭 I’m Currently doing Software Engineering
 - 🌱 I’m Google developer Student Club Ambassador at PUCIT
 - 👯 I’m Community member at Microsoft Learn Student Ambassador
