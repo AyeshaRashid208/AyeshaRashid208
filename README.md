@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Ayesha Rashid, Student at 👨‍💻 PUCIT Pursuing BS Software Engineering. I am tech enthusiast.
 
+<p><img src="https://github.com/AyeshaRashid208/AyeshaRashid208/blob/main/gif.gif" alt="Gif" ></p>
+
 **🧐ABOUT ME**🚀
 ________________________________________________________________________
 - 🔭 I’m Currently doing Software Engineering
