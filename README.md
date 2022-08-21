@@ -37,6 +37,7 @@ ________________________________________________________________________
 
 ### :fire: Github Analytics :
 _______________________________________________________________________
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaRashid208&layout=compact&theme=radical)](https://github.com/AyeshaRashid208/github-readme-stats)
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyeshaRashid208&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaRashid208&layout=compact&theme=vision-friendly-dark)](https://github.com/AyeshaRashid208/github-readme-stats)
 ![AyeshaRashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyeshaRashid208&show_icons=true&theme=radical)
