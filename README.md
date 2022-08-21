@@ -17,7 +17,7 @@ ________________________________________________________________________
 - 🔭 I’m Currently doing Software Engineering
 - 🌱 I’m Google developer Student Club Ambassador at PUCIT
 - 👯 I’m Community member at Microsoft Learn Student Ambassador
-- 🌱 I’m Currently working as a remote intern at DEVDICE
+- 🌱 I’m Currently working as a remote intern at ITSolz
 - ⚡ I m tech enthusiast.
 - ✍️ Programming Fundamentals Teaching Assistant
 
