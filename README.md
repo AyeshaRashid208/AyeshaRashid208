@@ -38,5 +38,6 @@ ________________________________________________________________________
 ### :fire: Github Analytics :
 _______________________________________________________________________
 [![GitHub Streak](https://streak-stats.demolab.com?user=AyeshaRashid208&theme=highcontrast)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyeshaRashid208&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyeshaRashid208&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=AyeshaRashid208&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaRashid208&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
