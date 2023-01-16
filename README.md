@@ -38,5 +38,5 @@ ________________________________________________________________________
 ### :fire: Github Analytics :
 _______________________________________________________________________
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=AyeshaRashid208&theme=highcontrast)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyeshaRashid208&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyeshaRashid208&theme=highcontrast)](https://git.io/streak-stats)]
 
