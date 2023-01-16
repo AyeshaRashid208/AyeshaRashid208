@@ -37,6 +37,5 @@ ________________________________________________________________________
 
 ### :fire: Github Analytics :
 _______________________________________________________________________
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyeshaRashid208&theme=highcontrast)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AyeshaRashid208&theme=highcontrast)](https://git.io/streak-stats)
 
