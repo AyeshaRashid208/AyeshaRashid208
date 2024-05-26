@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ayesha Rashid, Student at 👨‍💻 PUCIT Pursuing BS Software Engineering. I am tech enthusiast.
+I'm Ayesha Rashid, I am a Software Engineer at i2c. I am a Data Analyst.
 
 <p><img src="https://github.com/AyeshaRashid208/AyeshaRashid208/blob/main/gif_image.gif" alt="Gif" width="500" height="320"></p>
 <div id="badges">
