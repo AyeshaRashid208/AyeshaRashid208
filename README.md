@@ -20,6 +20,7 @@ ________________________________________________________________________
 - 🌱 I’m Currently working as a remote intern at ITSolz
 - ⚡ I m tech enthusiast.
 - ✍️ Programming Fundamentals Teaching Assistant
+- ⚡ https://public.tableau.com/app/profile/ayesha.rashid7594
 
 ### :hammer_and_wrench: Languages and Tools :
 ________________________________________________________________________
