@@ -14,12 +14,11 @@ I'm Ayesha Rashid, I am a Software Engineer at i2c. I am a Data Analyst.
 
 **🧐ABOUT ME**🚀
 ________________________________________________________________________
-- 🔭 I’m Currently doing Software Engineering
-- 🌱 I’m Google developer Student Club Ambassador at PUCIT
+- 🔭 I’m a Data Analyst @i2c.inc
+- 🌱 I’m honoured with outstanding performance award pf the year
 - 👯 I’m Community member at Microsoft Learn Student Ambassador
-- 🌱 I’m Currently working as a remote intern at ITSolz
 - ⚡ I m tech enthusiast.
-- ✍️ Programming Fundamentals Teaching Assistant
+- ✍️ Programming Fundamentals | Teaching Assistant | Former GDSC Ambadassador
 - ⚡ https://public.tableau.com/app/profile/ayesha.rashid7594
 
 ### :hammer_and_wrench: Languages and Tools :
